@@ -137,6 +137,13 @@ Access:
 
 If data/live_sensor.jsonl is missing or empty, the dashboard switches to synthetic demo mode.
 
+## Demo Video
+
+<video src="demo_video/fantistic_4.gif" controls width="720">
+  Your browser does not support embedded video. Download: docs/demo.mp4
+</video>
+
+
 ## Configuration
 
 - Sidebar (dashboard):
