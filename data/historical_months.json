@@ -1,0 +1,641 @@
+{
+  "daily_history": [
+    {
+      "date": "2025-08-31",
+      "exported_energy": 139.68,
+      "selfuse_energy": 113.67,
+      "grid_consumption": 69.66,
+      "yield_energy": 253.34
+    },
+    {
+      "date": "2025-09-01",
+      "exported_energy": 104.15,
+      "selfuse_energy": 87.96,
+      "grid_consumption": 31.32,
+      "yield_energy": 192.11
+    },
+    {
+      "date": "2025-09-02",
+      "exported_energy": 135.98,
+      "selfuse_energy": 124.4,
+      "grid_consumption": 64.44,
+      "yield_energy": 260.38
+    },
+    {
+      "date": "2025-09-03",
+      "exported_energy": 152.25,
+      "selfuse_energy": 118.65,
+      "grid_consumption": 43.67,
+      "yield_energy": 270.9
+    },
+    {
+      "date": "2025-09-04",
+      "exported_energy": 148.22,
+      "selfuse_energy": 97.28,
+      "grid_consumption": 47.81,
+      "yield_energy": 245.49
+    },
+    {
+      "date": "2025-09-05",
+      "exported_energy": 111.97,
+      "selfuse_energy": 91.73,
+      "grid_consumption": 41.24,
+      "yield_energy": 203.7
+    },
+    {
+      "date": "2025-09-06",
+      "exported_energy": 147.18,
+      "selfuse_energy": 124.38,
+      "grid_consumption": 56.22,
+      "yield_energy": 271.57
+    },
+    {
+      "date": "2025-09-07",
+      "exported_energy": 135.19,
+      "selfuse_energy": 113.96,
+      "grid_consumption": 34.81,
+      "yield_energy": 249.15
+    },
+    {
+      "date": "2025-09-08",
+      "exported_energy": 154.15,
+      "selfuse_energy": 104.35,
+      "grid_consumption": 67.86,
+      "yield_energy": 258.5
+    },
+    {
+      "date": "2025-09-09",
+      "exported_energy": 147.34,
+      "selfuse_energy": 85.19,
+      "grid_consumption": 57.4,
+      "yield_energy": 232.53
+    },
+    {
+      "date": "2025-09-10",
+      "exported_energy": 118.61,
+      "selfuse_energy": 114.85,
+      "grid_consumption": 64.67,
+      "yield_energy": 233.46
+    },
+    {
+      "date": "2025-09-11",
+      "exported_energy": 129.13,
+      "selfuse_energy": 114.89,
+      "grid_consumption": 26.3,
+      "yield_energy": 244.03
+    },
+    {
+      "date": "2025-09-12",
+      "exported_energy": 123.73,
+      "selfuse_energy": 97.38,
+      "grid_consumption": 61.03,
+      "yield_energy": 221.11
+    },
+    {
+      "date": "2025-09-13",
+      "exported_energy": 103.87,
+      "selfuse_energy": 106.8,
+      "grid_consumption": 31.72,
+      "yield_energy": 210.67
+    },
+    {
+      "date": "2025-09-14",
+      "exported_energy": 106.1,
+      "selfuse_energy": 89.24,
+      "grid_consumption": 46.52,
+      "yield_energy": 195.34
+    },
+    {
+      "date": "2025-09-15",
+      "exported_energy": 108.55,
+      "selfuse_energy": 84.04,
+      "grid_consumption": 52.62,
+      "yield_energy": 192.59
+    },
+    {
+      "date": "2025-09-16",
+      "exported_energy": 83.31,
+      "selfuse_energy": 94.3,
+      "grid_consumption": 29.06,
+      "yield_energy": 177.61
+    },
+    {
+      "date": "2025-09-17",
+      "exported_energy": 82.56,
+      "selfuse_energy": 88.64,
+      "grid_consumption": 28.7,
+      "yield_energy": 171.2
+    },
+    {
+      "date": "2025-09-18",
+      "exported_energy": 104.76,
+      "selfuse_energy": 73.37,
+      "grid_consumption": 24.57,
+      "yield_energy": 178.14
+    },
+    {
+      "date": "2025-09-19",
+      "exported_energy": 107.88,
+      "selfuse_energy": 89.63,
+      "grid_consumption": 48.64,
+      "yield_energy": 197.51
+    },
+    {
+      "date": "2025-09-20",
+      "exported_energy": 102.09,
+      "selfuse_energy": 78.11,
+      "grid_consumption": 34.77,
+      "yield_energy": 180.2
+    },
+    {
+      "date": "2025-09-21",
+      "exported_energy": 82.74,
+      "selfuse_energy": 68.67,
+      "grid_consumption": 33.98,
+      "yield_energy": 151.42
+    },
+    {
+      "date": "2025-09-22",
+      "exported_energy": 108.53,
+      "selfuse_energy": 72.21,
+      "grid_consumption": 42.66,
+      "yield_energy": 180.74
+    },
+    {
+      "date": "2025-09-23",
+      "exported_energy": 87.19,
+      "selfuse_energy": 85.58,
+      "grid_consumption": 31.99,
+      "yield_energy": 172.77
+    },
+    {
+      "date": "2025-09-24",
+      "exported_energy": 81.13,
+      "selfuse_energy": 80.64,
+      "grid_consumption": 41.79,
+      "yield_energy": 161.77
+    },
+    {
+      "date": "2025-09-25",
+      "exported_energy": 100.42,
+      "selfuse_energy": 79.4,
+      "grid_consumption": 39.82,
+      "yield_energy": 179.82
+    },
+    {
+      "date": "2025-09-26",
+      "exported_energy": 87.61,
+      "selfuse_energy": 100.26,
+      "grid_consumption": 46.88,
+      "yield_energy": 187.87
+    },
+    {
+      "date": "2025-09-27",
+      "exported_energy": 129.87,
+      "selfuse_energy": 98.11,
+      "grid_consumption": 25.98,
+      "yield_energy": 227.98
+    },
+    {
+      "date": "2025-09-28",
+      "exported_energy": 127.87,
+      "selfuse_energy": 83.59,
+      "grid_consumption": 56.38,
+      "yield_energy": 211.46
+    },
+    {
+      "date": "2025-09-29",
+      "exported_energy": 97.66,
+      "selfuse_energy": 99.39,
+      "grid_consumption": 44.71,
+      "yield_energy": 197.05
+    },
+    {
+      "date": "2025-09-30",
+      "exported_energy": 138.78,
+      "selfuse_energy": 114.96,
+      "grid_consumption": 64.7,
+      "yield_energy": 253.74
+    },
+    {
+      "date": "2025-10-01",
+      "exported_energy": 130.95,
+      "selfuse_energy": 94.37,
+      "grid_consumption": 49.17,
+      "yield_energy": 225.32
+    },
+    {
+      "date": "2025-10-02",
+      "exported_energy": 117.25,
+      "selfuse_energy": 97.72,
+      "grid_consumption": 34.0,
+      "yield_energy": 214.98
+    },
+    {
+      "date": "2025-10-03",
+      "exported_energy": 150.58,
+      "selfuse_energy": 123.41,
+      "grid_consumption": 67.9,
+      "yield_energy": 273.99
+    },
+    {
+      "date": "2025-10-04",
+      "exported_energy": 147.95,
+      "selfuse_energy": 132.64,
+      "grid_consumption": 70.46,
+      "yield_energy": 280.59
+    },
+    {
+      "date": "2025-10-05",
+      "exported_energy": 146.86,
+      "selfuse_energy": 110.1,
+      "grid_consumption": 36.29,
+      "yield_energy": 256.96
+    },
+    {
+      "date": "2025-10-06",
+      "exported_energy": 116.74,
+      "selfuse_energy": 129.44,
+      "grid_consumption": 63.4,
+      "yield_energy": 246.18
+    },
+    {
+      "date": "2025-10-07",
+      "exported_energy": 127.1,
+      "selfuse_energy": 120.8,
+      "grid_consumption": 35.85,
+      "yield_energy": 247.91
+    },
+    {
+      "date": "2025-10-08",
+      "exported_energy": 117.44,
+      "selfuse_energy": 97.4,
+      "grid_consumption": 39.78,
+      "yield_energy": 214.83
+    },
+    {
+      "date": "2025-10-09",
+      "exported_energy": 120.99,
+      "selfuse_energy": 85.82,
+      "grid_consumption": 41.61,
+      "yield_energy": 206.82
+    },
+    {
+      "date": "2025-10-10",
+      "exported_energy": 98.01,
+      "selfuse_energy": 121.54,
+      "grid_consumption": 53.6,
+      "yield_energy": 219.55
+    },
+    {
+      "date": "2025-10-11",
+      "exported_energy": 92.1,
+      "selfuse_energy": 106.24,
+      "grid_consumption": 30.81,
+      "yield_energy": 198.34
+    },
+    {
+      "date": "2025-10-12",
+      "exported_energy": 120.91,
+      "selfuse_energy": 93.97,
+      "grid_consumption": 53.96,
+      "yield_energy": 214.88
+    },
+    {
+      "date": "2025-10-13",
+      "exported_energy": 114.24,
+      "selfuse_energy": 84.08,
+      "grid_consumption": 47.48,
+      "yield_energy": 198.33
+    },
+    {
+      "date": "2025-10-14",
+      "exported_energy": 88.06,
+      "selfuse_energy": 99.58,
+      "grid_consumption": 48.78,
+      "yield_energy": 187.64
+    },
+    {
+      "date": "2025-10-15",
+      "exported_energy": 99.33,
+      "selfuse_energy": 77.65,
+      "grid_consumption": 36.5,
+      "yield_energy": 176.98
+    },
+    {
+      "date": "2025-10-16",
+      "exported_energy": 96.32,
+      "selfuse_energy": 79.04,
+      "grid_consumption": 29.65,
+      "yield_energy": 175.36
+    },
+    {
+      "date": "2025-10-17",
+      "exported_energy": 76.32,
+      "selfuse_energy": 76.37,
+      "grid_consumption": 22.73,
+      "yield_energy": 152.69
+    },
+    {
+      "date": "2025-10-18",
+      "exported_energy": 86.41,
+      "selfuse_energy": 82.11,
+      "grid_consumption": 22.88,
+      "yield_energy": 168.52
+    },
+    {
+      "date": "2025-10-19",
+      "exported_energy": 105.26,
+      "selfuse_energy": 60.37,
+      "grid_consumption": 45.73,
+      "yield_energy": 165.62
+    },
+    {
+      "date": "2025-10-20",
+      "exported_energy": 87.91,
+      "selfuse_energy": 60.54,
+      "grid_consumption": 45.51,
+      "yield_energy": 148.45
+    },
+    {
+      "date": "2025-10-21",
+      "exported_energy": 86.97,
+      "selfuse_energy": 65.15,
+      "grid_consumption": 46.35,
+      "yield_energy": 152.12
+    },
+    {
+      "date": "2025-10-22",
+      "exported_energy": 91.99,
+      "selfuse_energy": 87.89,
+      "grid_consumption": 20.91,
+      "yield_energy": 179.88
+    },
+    {
+      "date": "2025-10-23",
+      "exported_energy": 83.45,
+      "selfuse_energy": 85.57,
+      "grid_consumption": 32.9,
+      "yield_energy": 169.02
+    },
+    {
+      "date": "2025-10-24",
+      "exported_energy": 94.23,
+      "selfuse_energy": 76.59,
+      "grid_consumption": 32.29,
+      "yield_energy": 170.82
+    },
+    {
+      "date": "2025-10-25",
+      "exported_energy": 93.89,
+      "selfuse_energy": 77.67,
+      "grid_consumption": 33.45,
+      "yield_energy": 171.55
+    },
+    {
+      "date": "2025-10-26",
+      "exported_energy": 124.89,
+      "selfuse_energy": 79.98,
+      "grid_consumption": 42.85,
+      "yield_energy": 204.87
+    },
+    {
+      "date": "2025-10-27",
+      "exported_energy": 94.98,
+      "selfuse_energy": 86.88,
+      "grid_consumption": 43.89,
+      "yield_energy": 181.86
+    },
+    {
+      "date": "2025-10-28",
+      "exported_energy": 141.61,
+      "selfuse_energy": 102.59,
+      "grid_consumption": 45.47,
+      "yield_energy": 244.19
+    },
+    {
+      "date": "2025-10-29",
+      "exported_energy": 99.44,
+      "selfuse_energy": 107.95,
+      "grid_consumption": 55.7,
+      "yield_energy": 207.39
+    },
+    {
+      "date": "2025-10-30",
+      "exported_energy": 107.89,
+      "selfuse_energy": 91.14,
+      "grid_consumption": 61.51,
+      "yield_energy": 199.03
+    },
+    {
+      "date": "2025-10-31",
+      "exported_energy": 129.87,
+      "selfuse_energy": 88.08,
+      "grid_consumption": 53.04,
+      "yield_energy": 217.95
+    },
+    {
+      "date": "2025-11-01",
+      "exported_energy": 125.24,
+      "selfuse_energy": 88.4,
+      "grid_consumption": 47.85,
+      "yield_energy": 213.63
+    },
+    {
+      "date": "2025-11-02",
+      "exported_energy": 147.81,
+      "selfuse_energy": 116.66,
+      "grid_consumption": 57.14,
+      "yield_energy": 264.47
+    },
+    {
+      "date": "2025-11-03",
+      "exported_energy": 149.85,
+      "selfuse_energy": 91.26,
+      "grid_consumption": 42.33,
+      "yield_energy": 241.12
+    },
+    {
+      "date": "2025-11-04",
+      "exported_energy": 144.34,
+      "selfuse_energy": 93.42,
+      "grid_consumption": 32.58,
+      "yield_energy": 237.76
+    },
+    {
+      "date": "2025-11-05",
+      "exported_energy": 136.62,
+      "selfuse_energy": 121.13,
+      "grid_consumption": 47.22,
+      "yield_energy": 257.75
+    },
+    {
+      "date": "2025-11-06",
+      "exported_energy": 120.52,
+      "selfuse_energy": 115.17,
+      "grid_consumption": 71.53,
+      "yield_energy": 235.69
+    },
+    {
+      "date": "2025-11-07",
+      "exported_energy": 105.33,
+      "selfuse_energy": 88.22,
+      "grid_consumption": 67.29,
+      "yield_energy": 193.56
+    },
+    {
+      "date": "2025-11-08",
+      "exported_energy": 131.26,
+      "selfuse_energy": 118.85,
+      "grid_consumption": 63.37,
+      "yield_energy": 250.1
+    },
+    {
+      "date": "2025-11-09",
+      "exported_energy": 106.5,
+      "selfuse_energy": 119.2,
+      "grid_consumption": 63.75,
+      "yield_energy": 225.69
+    },
+    {
+      "date": "2025-11-10",
+      "exported_energy": 131.7,
+      "selfuse_energy": 95.54,
+      "grid_consumption": 37.93,
+      "yield_energy": 227.24
+    },
+    {
+      "date": "2025-11-11",
+      "exported_energy": 99.96,
+      "selfuse_energy": 111.1,
+      "grid_consumption": 45.56,
+      "yield_energy": 211.06
+    },
+    {
+      "date": "2025-11-12",
+      "exported_energy": 88.65,
+      "selfuse_energy": 80.33,
+      "grid_consumption": 47.11,
+      "yield_energy": 168.98
+    },
+    {
+      "date": "2025-11-13",
+      "exported_energy": 93.0,
+      "selfuse_energy": 71.91,
+      "grid_consumption": 56.01,
+      "yield_energy": 164.91
+    },
+    {
+      "date": "2025-11-14",
+      "exported_energy": 111.02,
+      "selfuse_energy": 89.41,
+      "grid_consumption": 44.48,
+      "yield_energy": 200.43
+    },
+    {
+      "date": "2025-11-15",
+      "exported_energy": 102.38,
+      "selfuse_energy": 80.93,
+      "grid_consumption": 34.33,
+      "yield_energy": 183.31
+    },
+    {
+      "date": "2025-11-16",
+      "exported_energy": 86.78,
+      "selfuse_energy": 91.49,
+      "grid_consumption": 23.6,
+      "yield_energy": 178.28
+    },
+    {
+      "date": "2025-11-17",
+      "exported_energy": 81.96,
+      "selfuse_energy": 87.26,
+      "grid_consumption": 46.66,
+      "yield_energy": 169.22
+    },
+    {
+      "date": "2025-11-18",
+      "exported_energy": 90.91,
+      "selfuse_energy": 67.24,
+      "grid_consumption": 31.61,
+      "yield_energy": 158.15
+    },
+    {
+      "date": "2025-11-19",
+      "exported_energy": 93.95,
+      "selfuse_energy": 87.35,
+      "grid_consumption": 31.18,
+      "yield_energy": 181.3
+    },
+    {
+      "date": "2025-11-20",
+      "exported_energy": 92.16,
+      "selfuse_energy": 87.01,
+      "grid_consumption": 27.33,
+      "yield_energy": 179.17
+    },
+    {
+      "date": "2025-11-21",
+      "exported_energy": 111.41,
+      "selfuse_energy": 78.51,
+      "grid_consumption": 42.6,
+      "yield_energy": 189.92
+    },
+    {
+      "date": "2025-11-22",
+      "exported_energy": 100.46,
+      "selfuse_energy": 80.27,
+      "grid_consumption": 28.88,
+      "yield_energy": 180.72
+    },
+    {
+      "date": "2025-11-23",
+      "exported_energy": 89.67,
+      "selfuse_energy": 66.4,
+      "grid_consumption": 39.73,
+      "yield_energy": 156.08
+    },
+    {
+      "date": "2025-11-24",
+      "exported_energy": 107.47,
+      "selfuse_energy": 98.5,
+      "grid_consumption": 33.42,
+      "yield_energy": 205.97
+    },
+    {
+      "date": "2025-11-25",
+      "exported_energy": 107.21,
+      "selfuse_energy": 97.88,
+      "grid_consumption": 42.45,
+      "yield_energy": 205.09
+    },
+    {
+      "date": "2025-11-26",
+      "exported_energy": 136.83,
+      "selfuse_energy": 105.09,
+      "grid_consumption": 55.66,
+      "yield_energy": 241.92
+    },
+    {
+      "date": "2025-11-27",
+      "exported_energy": 118.91,
+      "selfuse_energy": 114.62,
+      "grid_consumption": 63.49,
+      "yield_energy": 233.53
+    },
+    {
+      "date": "2025-11-28",
+      "exported_energy": 125.39,
+      "selfuse_energy": 99.99,
+      "grid_consumption": 56.03,
+      "yield_energy": 225.38
+    },
+    {
+      "date": "2025-11-29",
+      "exported_energy": 124.75,
+      "selfuse_energy": 96.48,
+      "grid_consumption": 61.58,
+      "yield_energy": 221.23
+    }
+  ]
+}
