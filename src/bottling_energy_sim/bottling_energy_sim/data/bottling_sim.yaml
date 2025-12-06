@@ -1,0 +1,276 @@
+bottling_line_energy_data:
+  - timestamp: "2025-11-28T12:00:00.000Z"
+    conveyor_drive_motor_kw: 0.4
+    co2_pump_current_a: 1.2
+    rinser_pump_power_w: 60
+    filler_servo_energy_j: 120
+    capper_voltage_v: 47.5
+
+  - timestamp: "2025-11-28T12:00:01.000Z"
+    conveyor_drive_motor_kw: 3.8
+    co2_pump_current_a: 8.5
+    rinser_pump_power_w: 950
+    filler_servo_energy_j: 220
+    capper_voltage_v: 51.2
+
+  - timestamp: "2025-11-28T12:00:02.000Z"
+    conveyor_drive_motor_kw: 3.1
+    co2_pump_current_a: 7.0
+    rinser_pump_power_w: 780
+    filler_servo_energy_j: 190
+    capper_voltage_v: 49.8
+
+  - timestamp: "2025-11-28T12:00:03.000Z"
+    conveyor_drive_motor_kw: 2.6
+    co2_pump_current_a: 7.1
+    rinser_pump_power_w: 820
+    filler_servo_energy_j: 175
+    capper_voltage_v: 49.7
+
+  - timestamp: "2025-11-28T12:00:04.000Z"
+    conveyor_drive_motor_kw: 2.4
+    co2_pump_current_a: 6.7
+    rinser_pump_power_w: 790
+    filler_servo_energy_j: 170
+    capper_voltage_v: 52.1
+
+  - timestamp: "2025-11-28T12:00:05.000Z"
+    conveyor_drive_motor_kw: 3.9
+    anomaly_flag: "conveyor_overload"
+    co2_pump_current_a: 6.8
+    rinser_pump_power_w: 800
+    filler_servo_energy_j: 165
+    capper_voltage_v: 48.9
+
+  - timestamp: "2025-11-28T12:00:06.000Z"
+    conveyor_drive_motor_kw: 4.0
+    anomaly_flag: "conveyor_overload"
+    co2_pump_current_a: 6.9
+    rinser_pump_power_w: 810
+    filler_servo_energy_j: 160
+    capper_voltage_v: 49.1
+
+  - timestamp: "2025-11-28T12:00:07.000Z"
+    conveyor_drive_motor_kw: 4.0
+    anomaly_flag: "brief_power_surge"
+    co2_pump_current_a: 7.2
+    rinser_pump_power_w: 835
+    filler_servo_energy_j: 165
+    capper_voltage_v: 49.0
+
+  - timestamp: "2025-11-28T12:00:08.000Z"
+    conveyor_drive_motor_kw: 2.5
+    co2_pump_current_a: 6.7
+    rinser_pump_power_w: 780
+    filler_servo_energy_j: 170
+    capper_voltage_v: 48.2
+
+  - timestamp: "2025-11-28T12:00:09.000Z"
+    conveyor_drive_motor_kw: 2.3
+    co2_pump_current_a: 1.3
+    rinser_pump_power_w: 70
+    filler_servo_energy_j: 130
+    capper_voltage_v: 47.6
+
+  # --- 1. Line Startup/Warm-up (08:00:00 - 08:00:05) ---
+  - timestamp: "2025-11-28T08:00:00.000Z"
+    conveyor_drive_motor_kw: 0.2
+    co2_pump_current_a: 1.0
+    rinser_pump_power_w: 50
+    filler_servo_energy_j: 100
+    capper_voltage_v: 46.0
+    status: "line_off"
+
+  - timestamp: "2025-11-28T08:00:03.000Z"
+    conveyor_drive_motor_kw: 1.5
+    co2_pump_current_a: 3.5
+    rinser_pump_power_w: 350
+    filler_servo_energy_j: 150
+    capper_voltage_v: 48.0
+    status: "ramping_up"
+
+  - timestamp: "2025-11-28T08:00:05.000Z"
+    conveyor_drive_motor_kw: 3.4
+    co2_pump_current_a: 6.5
+    rinser_pump_power_w: 820
+    filler_servo_energy_j: 180
+    capper_voltage_v: 49.5
+    status: "normal_production"
+
+  # --- 2. Peak Production / Normal Operation ---
+  - timestamp: "2025-11-28T11:59:58.000Z"
+    conveyor_drive_motor_kw: 3.2
+    co2_pump_current_a: 7.0
+    rinser_pump_power_w: 900
+    filler_servo_energy_j: 200
+    capper_voltage_v: 50.1
+    status: "normal_production"
+
+  - timestamp: "2025-11-28T11:59:59.000Z"
+    conveyor_drive_motor_kw: 4.0
+    co2_pump_current_a: 8.5
+    rinser_pump_power_w: 1000
+    filler_servo_energy_j: 260
+    capper_voltage_v: 51.2
+    status: "peak_production"
+
+  - timestamp: "2025-11-28T12:00:00.000Z"
+    conveyor_drive_motor_kw: 0.4
+    co2_pump_current_a: 1.2
+    rinser_pump_power_w: 60
+    filler_servo_energy_j: 120
+    capper_voltage_v: 47.5
+    status: "scheduled_stop"
+
+  # --- 3. Mid-day Anomaly & Recovery (12:00:05 - 12:00:08) ---
+  - timestamp: "2025-11-28T12:00:05.000Z"
+    conveyor_drive_motor_kw: 3.9
+    co2_pump_current_a: 6.8
+    rinser_pump_power_w: 800
+    filler_servo_energy_j: 165
+    capper_voltage_v: 48.9
+    anomaly_flag: "conveyor_overload"
+
+  - timestamp: "2025-11-28T12:00:07.000Z"
+    conveyor_drive_motor_kw: 4.0
+    co2_pump_current_a: 7.2
+    rinser_pump_power_w: 835
+    filler_servo_energy_j: 165
+    capper_voltage_v: 49.0
+    anomaly_flag: "conveyor_overload"
+
+  - timestamp: "2025-11-28T12:00:08.000Z"
+    conveyor_drive_motor_kw: 2.5
+    co2_pump_current_a: 6.7
+    rinser_pump_power_w: 780
+    filler_servo_energy_j: 170
+    capper_voltage_v: 48.2
+    status: "recovery"
+
+  # --- 4. Evening Production & Shutdown ---
+  - timestamp: "2025-11-28T19:59:50.000Z"
+    conveyor_drive_motor_kw: 3.1
+    co2_pump_current_a: 7.5
+    rinser_pump_power_w: 920
+    filler_servo_energy_j: 210
+    capper_voltage_v: 49.9
+    status: "late_shift_production"
+
+  - timestamp: "2025-11-28T20:00:00.000Z"
+    conveyor_drive_motor_kw: 2.4
+    co2_pump_current_a: 5.0
+    rinser_pump_power_w: 700
+    filler_servo_energy_j: 150
+    capper_voltage_v: 47.0
+    status: "ramping_down"
+
+  - timestamp: "2025-11-28T20:00:05.000Z"
+    conveyor_drive_motor_kw: 0.1
+    co2_pump_current_a: 0.5
+    rinser_pump_power_w: 20
+    filler_servo_energy_j: 50
+    capper_voltage_v: 45.0
+    status: "line_off_standby"
+
+  - timestamp: "2025-11-28T12:00:10.000Z"
+    conveyor_drive_motor_kw: 2.9
+    co2_pump_current_a: 1.2
+    rinser_pump_power_w: 60
+    filler_servo_energy_j: 135
+    capper_voltage_v: 47.5
+
+  - timestamp: "2025-11-28T12:00:11.000Z"
+    conveyor_drive_motor_kw: 2.8
+    co2_pump_current_a: 1.2
+    rinser_pump_power_w: 60
+    filler_servo_energy_j: 130
+    capper_voltage_v: 47.3
+
+  - timestamp: "2025-11-28T12:00:12.000Z"
+    conveyor_drive_motor_kw: 3.0
+    co2_pump_current_a: 1.2
+    rinser_pump_power_w: 60
+    filler_servo_energy_j: 300
+    anomaly_flag: "filler_servo_spike"
+    capper_voltage_v: 47.4
+
+  - timestamp: "2025-11-28T12:00:13.000Z"
+    conveyor_drive_motor_kw: 2.8
+    co2_pump_current_a: 1.2
+    rinser_pump_power_w: 60
+    filler_servo_energy_j: 130
+    capper_voltage_v: 47.3
+
+  - timestamp: "2025-11-28T12:00:14.000Z"
+    conveyor_drive_motor_kw: 2.7
+    co2_pump_current_a: 1.1
+    rinser_pump_power_w: 65
+    filler_servo_energy_j: 128
+    capper_voltage_v: 47.2
+
+  - timestamp: "2025-11-28T12:00:15.000Z"
+    conveyor_drive_motor_kw: 3.2
+    co2_pump_current_a: 6.8
+    rinser_pump_power_w: 820
+    filler_servo_energy_j: 180
+    capper_voltage_v: 49.6
+
+  - timestamp: "2025-11-28T12:00:16.000Z"
+    conveyor_drive_motor_kw: 3.4
+    co2_pump_current_a: 7.1
+    rinser_pump_power_w: 860
+    filler_servo_energy_j: 190
+    capper_voltage_v: 49.8
+
+  - timestamp: "2025-11-28T12:00:17.000Z"
+    conveyor_drive_motor_kw: 3.9
+    co2_pump_current_a: 8.0
+    rinser_pump_power_w: 980
+    filler_servo_energy_j: 220
+    capper_voltage_v: 50.5
+    status: "ramped_production"
+
+  - timestamp: "2025-11-28T12:00:18.000Z"
+    conveyor_drive_motor_kw: 3.6
+    co2_pump_current_a: 7.6
+    rinser_pump_power_w: 940
+    filler_servo_energy_j: 210
+    capper_voltage_v: 50.7
+
+  - timestamp: "2025-11-28T12:00:19.000Z"
+    conveyor_drive_motor_kw: 4.0
+    co2_pump_current_a: 8.9
+    rinser_pump_power_w: 1020
+    filler_servo_energy_j: 240
+    capper_voltage_v: 51.3
+    anomaly_flag: "brief_power_surge"
+
+  - timestamp: "2025-11-28T12:00:20.000Z"
+    conveyor_drive_motor_kw: 3.0
+    co2_pump_current_a: 7.0
+    rinser_pump_power_w: 900
+    filler_servo_energy_j: 200
+    capper_voltage_v: 49.2
+    status: "stabilizing"
+
+  - timestamp: "2025-11-28T12:00:21.000Z"
+    conveyor_drive_motor_kw: 2.7
+    co2_pump_current_a: 6.5
+    rinser_pump_power_w: 860
+    filler_servo_energy_j: 190
+    capper_voltage_v: 48.9
+
+  - timestamp: "2025-11-28T12:00:22.000Z"
+    conveyor_drive_motor_kw: 2.5
+    co2_pump_current_a: 1.2
+    rinser_pump_power_w: 70
+    filler_servo_energy_j: 135
+    capper_voltage_v: 47.6
+    status: "standby"
+
+  - timestamp: "2025-11-28T12:00:23.000Z"
+    conveyor_drive_motor_kw: 2.4
+    co2_pump_current_a: 1.2
+    rinser_pump_power_w: 60
+    filler_servo_energy_j: 130
+    capper_voltage_v: 47.4
