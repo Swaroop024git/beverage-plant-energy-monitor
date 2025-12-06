@@ -162,7 +162,9 @@ If `data/live_sensor.jsonl` is missing or empty, the dashboard switches to synth
 
 ## Demo Video
 
-<img src="demo_video/fantistic_4.gif" width="720">
+<p align="center">
+  <img src="demo_video/fantistic_4.gif" width="720">
+</p>
 
 ## Configuration
 
