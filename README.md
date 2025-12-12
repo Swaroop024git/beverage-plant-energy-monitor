@@ -130,28 +130,28 @@ Prerequisites (Windows + WSL):
 * `pip install streamlit plotly pandas numpy websockets scikit-learn matplotlib`
 * ROS 2 with `rosbridge_server` (for live mode)
 
-Start rosbridge (WSL terminal):
+Start rosbridge :
 
 ```
 ros2 launch bottling_energy_sim rosbridge_websocket_launch.py
 ```
 
-Start publisher (WSL terminal):
+Start publisher :
 
 ```
 ros2 launch bottling_energy_sim energy_pub_launch.py
 ```
 
-WebSocket monitor (Windows PowerShell or WSL):
+WebSocket monitor :
 
 ```
-streamlit run \\wsl.localhost\Ubuntu-22.04\home\swaroop\hackathon_ws\websocket_test.py
+streamlit run websocket_test.py
 ```
 
-Start the dashboard (Windows PowerShell):
+Start the dashboard :
 
 ```
-streamlit run \\wsl.localhost\Ubuntu-22.04\home\swaroop\hackathon_ws\visualization.py
+streamlit run visualization.py
 ```
 
 Access:
